@@ -1,0 +1,33 @@
+# Core scientific computing
+numpy
+matplotlib
+pandas
+seaborn
+
+# Image processing
+opencv-python
+scikit-image
+Pillow
+
+# Machine learning utilities
+scikit-learn
+
+# Deep learning (VAE notebook)
+torch
+torchvision
+torchmetrics
+
+# MNIST dataset loading (PCA notebook)
+tensorflow
+
+# GPU-accelerated KDE (kde notebook; optional — falls back to NumPy)
+cupy-cuda12x
+
+# Notebook cross-imports
+import-ipynb
+
+# Progress bars
+tqdm
+
+# Video/GIF generation
+imageio

@@ -1,0 +1,14 @@
+{
+  "hyperparameters": {
+    "batch_size": 32,
+    "grad_accumulation_steps": 2,
+    "learning_rate": 0.1,
+    "epochs_trained": 100,
+    "early_stopping": true,
+    "patience": 10,
+    "relative_loss_threshold": 0.01
+  },
+  "final_loss": 0.00039983834761250146,
+  "min_loss": 0.00039983834761250146,
+  "total_samples_seen": 100000
+}
