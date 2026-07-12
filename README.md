@@ -1,6 +1,6 @@
 # ML Models — Implementations and Experiments
 
-A collection of machine-learning models and algorithms implemented as part of coursework in statistical learning, neural networks, and generative modeling.
+A collection of machine-learning models and algorithms implemented from scratch.
 
 ## Repository Structure
 
